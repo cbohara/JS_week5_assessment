@@ -53,3 +53,6 @@ Each assessment contains folders that correspond to the prompts listed below. Co
 
 * [ ] Read the instructions in the main body of the README associated
 with this assessment.
+=======
+# week-5-self-assessment
+>>>>>>> 4ce715741b60d3c2b793a6153096f4f45af0458f
