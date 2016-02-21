@@ -1,5 +1,23 @@
 /* your styles here */
 
-.listItem {
-	
+body{
+	background-color: black;
+}
+
+input{
+	width: 400px;
+	height: 25px;
+	font-family:  "Lucida Console", Courier, monospace;
+}
+
+button{
+	height: 25px;
+	background-color: #FF7373;
+	font-family:  "Lucida Console", Courier, monospace;
+}
+
+#listOfItems .listItem {
+   color: #FF7373;
+   font-family:  "Lucida Console", Courier, monospace;
+   margin-bottom: 10px;
 }
